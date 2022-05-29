@@ -10,5 +10,5 @@ Skills: HTML/ CSS / JavaScript/ Bootstrap/ jQuery / Reactjs/ Nextjs/
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emran197)  
 
-![GitHub metrics](https://metrics.lecoq.io/emran197)  
+
 
