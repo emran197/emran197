@@ -1,7 +1,7 @@
 ### Hi there 👋, Emran Hossain
 #### Front End web developer
 
-Skills: Nextjs / REACT / JavaScript / HTML / CSS
+Skills: HTML/ CSS / JavaScript/ Bootstrap/ jQuery / Reactjs/ Nextjs/ 
 
 - 🔭 I’m currently working on this page. 
 
